@@ -1,1 +1,1 @@
-const msg = 'dragon'
+const msg = 'dragon and phoenix fight!'
