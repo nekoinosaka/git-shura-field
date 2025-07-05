@@ -1,1 +1,1 @@
-console.log('Login Page')
+console.log('Login + Register Combo Page')
